@@ -1,6 +1,8 @@
 # legit-building-8885
 Diamond Land (CaratLane Clone)
 Deployed Lind:  https://dulcet-monstera-862eeb.netlify.app/
+
+Description:-
 This project is a clone of the CaratLane website, which is a popular online jewelry store. The aim of this project is to create a responsive landing page along with various functionalities including a product page with search and sort functionality, a cart page, an admin page for managing products, and a sign-in/sign-up system.
 
 Features
